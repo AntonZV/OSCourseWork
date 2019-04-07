@@ -1,0 +1,28 @@
+﻿Сборка начата 13.12.2017 10:59:34.
+     1>Проект "D:\ант\ПРОЕКТИ\PictureViewer\PictureViewer\PictureViewer.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp MyForm1.cpp MyForm2.cpp
+         MyForm.cpp
+     1>d:\ант\проекти\pictureviewer\pictureviewer\MyForm.h(332): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\ант\проекти\pictureviewer\pictureviewer\MyForm.h(333): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+         MyForm1.cpp
+         MyForm2.cpp
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\User\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\PictureViewer.res" PictureViewer.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ант\ПРОЕКТИ\PictureViewer\Release\PictureViewer.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\PictureViewer.MyForm.resources /ASSEMBLYRESOURCE:Release\PictureViewer.MyForm1.resources /ASSEMBLYRESOURCE:Release\PictureViewer.MyForm2.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ант\ПРОЕКТИ\PictureViewer\Release\PictureViewer.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\PictureViewer.res
+         Release\MyForm.obj
+         Release\MyForm1.obj
+         Release\MyForm2.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         PictureViewer.vcxproj -> D:\ант\ПРОЕКТИ\PictureViewer\Release\PictureViewer.exe
+       GenerateSatelliteAssemblies:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\AL.exe /culture:az-Cyrl /out:"D:\ант\ПРОЕКТИ\PictureViewer\Release\az-Cyrl\PictureViewer.resources.dll" /platform:x86 /template:"D:\ант\ПРОЕКТИ\PictureViewer\Release\PictureViewer.exe" /embed:Release\PictureViewer.MyForm2.az-Cyrl.resources
+     1>Сборка проекта "D:\ант\ПРОЕКТИ\PictureViewer\PictureViewer\PictureViewer.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:10.31
